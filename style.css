@@ -11,12 +11,12 @@ body{
     min-height: 100vh;
 background: radial-gradient(circle at -8.9% 51.2%, rgb(255 0 0) 0%, rgb(255 0 0 / 66%) 15.9%, rgb(255 77 77 / 94%) 15.9%, rgb(255 0 0 / 45%) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);}
 .container{
-    background: #fff;
+    background: #e3eef6;
     padding: 2rem;
     border-radius: 1rem;
-    min-height: 60vh;
+    min-height: 55vh;
     width: 50vh;
-    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    /* box-shadow: 0 10px 10px rgba(0,0,0,0.1); */
 }
 form{
     margin: 2rem 0 1rem 0;
@@ -53,7 +53,7 @@ form input{
     align-items: center;
     border-radius: 0.5rem;
     border: 1px solid #ccc;
-    width: 6rem;
+    width: 7.5rem;
 }
 .select-container select{
     width: auto;
